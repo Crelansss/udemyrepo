@@ -5,5 +5,3 @@ Hello world!
 im artem suvorov
 
 line from user2
-
-line from user1
