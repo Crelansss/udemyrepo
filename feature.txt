@@ -1,3 +1,4 @@
 ficha
 
-fix from rebase branch user1
+ficha from user2
+>>>>>>> d9d6d9b (add feature from user2)
